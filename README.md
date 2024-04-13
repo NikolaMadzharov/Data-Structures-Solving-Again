@@ -1,3 +1,10 @@
+![data-structures-fundamentals-with-csharp](https://user-images.githubusercontent.com/89745007/230484119-b4508d85-9726-4d84-85f9-ec0dcd12f6d7.jpg)
+
+
+
+# DataStructuresFundamentals
+This repository contains my solutions for the SoftUni course [Data Structures Fundamentals With C#](https://softuni.bg/trainings/3921/data-structures-fundamentals-with-csharp-november-2022)
+
 C# Data Structures Playground 🚀
 Welcome to the C# Data Structures Playground! 🎉 This repository is your one-stop destination for exploring and mastering essential data structures in C#. Whether you're a beginner looking to level up your coding skills or a seasoned developer aiming to brush up on your algorithms, you're in the right place!
 
