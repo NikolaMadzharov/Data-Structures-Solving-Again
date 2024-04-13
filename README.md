@@ -17,8 +17,3 @@ In this repository, you'll find an exciting assortment of data structures waitin
 List: Jumpstart your coding journey with the dynamic, resizable collection that's perfect for all your data storage needs!
 
 
-🤝 Contributing
-We thrive on collaboration! Whether you're fixing a bug, adding a new feature, or improving documentation, your contributions are highly valued. Check out our contribution guidelines to get started, and let's make this repository even more awesome together!
-
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
